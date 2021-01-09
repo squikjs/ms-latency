@@ -1,0 +1,20 @@
+{
+  "name": "ms-latency",
+  "version": "1.0.0",
+  "description": "Latency Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wildwolf210/ms-latency.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wildwolf210/ms-latency/issues"
+  },
+  "homepage": "https://github.com/Wildwolf210/ms-latency#readme"
+}
