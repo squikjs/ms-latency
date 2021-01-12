@@ -1,6 +1,6 @@
 {
   "name": "ms-latency",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Latency Calculator",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Wildwolf210/ms-latency.git"
   },
-  "keywords": [],
+  "keywords": [
+    "ms",
+    "latency",
+    "ms-latency",
+    "milliseconds",
+    "late"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
